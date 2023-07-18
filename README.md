@@ -1,2 +1,4 @@
 # ex.md
 hi
+--
+$ good
